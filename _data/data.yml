@@ -95,6 +95,12 @@ skills:
   toolset:
     - name: Python
       level: 40%
+      
+    - name: Ruby
+      level: 40%
+      
+    - name: Ruby on Rails
+      level: 40%
 
     - name: JavaScript
       level: 40%
