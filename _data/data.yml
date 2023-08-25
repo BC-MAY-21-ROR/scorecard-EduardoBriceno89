@@ -19,7 +19,7 @@ sidebar:
   github: EduardoBriceno89
   gitlab:
   bitbucket:
-  twitter: '@Eduardo79871872'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -68,7 +68,7 @@ educationcomplete:
 
   - degree: Informatics Engineer
     university: Universidad Multitecnica Profesional
-    time: 2020 - current
+    time: 2020 - 2023
 
 # Registra aquí los proyectos en los que has participado
 projects:
@@ -103,6 +103,9 @@ skills:
       level: 40%
 
     - name: JavaScript
+      level: 40%
+    
+    - name: Node.js
       level: 40%
 
     - name: HTML
