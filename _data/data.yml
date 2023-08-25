@@ -119,6 +119,12 @@ skills:
 
     - name: MySQL
       level: 40%
+
+    - name: mongoDB
+      level: 40%
+
+    - name: PostgreSQL
+      level: 40%
       
     - name: Linux
       level: 60%
